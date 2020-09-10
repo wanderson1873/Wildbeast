@@ -1,6 +1,6 @@
 # Wildbeast
 
-<img align="right" src="img/icones/leao.svg" style="margin-bottom: 30px" width="50%" alt="Surfbot">
+<img align="right" src="img/icones/leao.svg" style="margin-bottom: 30px" width="30%" alt="Surfbot">
 
 ## Tópicos 
 
@@ -11,6 +11,10 @@
 [Licença](#licença)
 
 <br>
+
+<h1 aling="center">
+    <img src="img/lobo.png">
+</h1>
 
 ## 📖 Sobre o Wildbeast
 
