@@ -1,10 +1,10 @@
-# Surfbot - aulas de surf
+# Wildbeast
 
-<img align="right" src="assets/surfbot-foto.png" style="margin-bottom: 30px" width="100%" alt="Surfbot">
+<img align="right" src="img/icones/leao.svg" style="margin-bottom: 30px" width="50%" alt="Surfbot">
 
 ## Tópicos 
 
-[Sobre o surfbot](#sobre-o-surfbot)
+[Sobre o surfbot](#sobre-o-wildbeast)
 
 [Tecnologias](#tecnologias)
 
@@ -12,36 +12,27 @@
 
 <br>
 
-## Sobre o Surfbot
+## 📖 Sobre o Wildbeast
 
-Surfbot é uma plataforma onde o usuário pode ter aulas de surf. Efetuando pagamento em sua respectiva modalidade (infantil, adulto ou profissional).
-
-Esse projeto foi desenvolvido para a pratica e aprimoramento em UI Design e Codificação.
+Esse projeto foi desenvolvido no curso Grid da Origamid, logo a principal ferramenta do CSS utilizada foi o Grid. O curso possui 3 módulos teóricos e em sequência, para colocar o conhecimneto em prática, esse último projeto.
 
 <br>
 
-## Tecnologias
+## 🚀 Tecnologias
 
 As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
-UI Design
-- Tipografia
-- Teoria das cores
-- Grid
-- Componentes da Interface
-- Espaçamento
-
-Codificação
-- HTML
-- CSS
-- JavaScript
+- CSS Grid
+- Grid Container
+- Grid Item
+- Media Querie
 
 <br>
 
 
 <br>
 
-## Licença
+## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
